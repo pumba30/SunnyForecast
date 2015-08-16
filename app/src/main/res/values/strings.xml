@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sunny Forecast</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings9</string>
+    <string name="title_activity_placeholder_fragment">Forecast Fragment</string>
+    <string name="btn_refresh">Refresh</string>
+</resources>
